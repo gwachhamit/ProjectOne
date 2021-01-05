@@ -10,7 +10,7 @@
   "dependencies": {
     "@cookieseater/vue-adminlte3": "github:CookiesEater/vue-adminlte3",
     "admin-lte": "^3.0.0-alpha.2",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "bootstrap-vue": "^2.1.0",
     "core-js": "^3.3.2",
